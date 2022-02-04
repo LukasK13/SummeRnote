@@ -1,6 +1,8 @@
 # SummeRnote
 Summernote WYSIWYG HTML editor for R Shiny
 
+This project is no longer maintained.
+
 Install by `devtools::install_github("LukasK13/SummeRnote")`
 
 # Example
